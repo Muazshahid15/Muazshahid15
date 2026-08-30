@@ -76,7 +76,7 @@ PLAYER STATS
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muaz-shahid](https://www.linkedin.com/in/muaz-shahid))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muaz-shahid)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Muazshahid15)
 
 </div>
